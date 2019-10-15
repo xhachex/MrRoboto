@@ -1,3 +1,3 @@
 import move
 
-move.forward()
+move.forward(1, 5)
